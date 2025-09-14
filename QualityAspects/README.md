@@ -73,3 +73,24 @@ The measure of how difficult code is to understand, reason about, and change. Co
 - Overuse of inheritance or deep hierarchies.
 - Large classes or functions with multiple responsibilities.
 - Hidden dependencies between modules.
+
+## Code Duplication
+
+**What it is**:  
+The extent to which the same logic or structure is repeated across the codebase. Duplication can be exact (copy-paste code) or conceptual (slightly different implementations of the same idea and purpose.)
+
+**Why it matters**: 
+- **Increases maintenance cost** - a change in one place often requires updates in multiple places.
+- **Invites inconsistency** - when similar pieces of code evolve differently, subtle bugs and contradictions appear and are hard to find.
+- **Slows down development** - developers spend more time hunting for all the spots that need to change.
+- **Reduces clarity** - duplicated code hides intent, making it harder to understand where the "real" logic lives.
+
+**Key drivers**
+- **Copy-paste culture** - quick fixes under pressure instead of proper design.
+- **Lack of shared libraries** - engineers reimplement the same logic because no common solution exists.
+- **Poor modular design** - tightly coupled code that makes reuse difficult, encouraging repetition.
+- **Lack of application structure** - unclear boundaries and inconsistent layering lead developers to duplicate logic rather than navigate existing code.
+- **Knowledge silos** - different teams or individuals solving the same problem without awareness of existing solutions.
+- **Lack of accountability** - unclear ownership of modules or components allows duplication to go unnoticed or unchallenged.
+- **Short-term optimization mindset** - prioritizing speed of delivery over long-term maintainability.
+- **Fear of breaking changes** - developers duplicate instead of reusing existing code to avoid unintended side effects.
