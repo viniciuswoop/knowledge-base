@@ -39,7 +39,7 @@ The degree to which a software system or its components can be effectively and e
 
 ## Code Readability
 
-**What it is:**
+**What it is:**  
 The ease which someone - not just the original author - can read, understand, and reason about the code. Readability comes primarily **from good design decisions, not just formatting rules**.
 
 **Why it matters**:
