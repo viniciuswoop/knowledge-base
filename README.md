@@ -15,7 +15,7 @@ If you find any topic that interests you and you’d like to collaborate, feel f
 
 Thank you for the visit! 
 
-## 📚 References / Source Books
+## 📚 References
 
 Here are the books used to support the articles:  
 
