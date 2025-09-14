@@ -19,9 +19,9 @@ Thank you for the visit!
 
 Here are the books used to support the articles:  
 
-- [*Modern Software Engineering: Doing What Works to Build Better Software Faster*](https://www.pearson.com/en-us/subject-catalog/p/modern-software-engineering-doing-what-works-to-build-better-software-faster/P200000003205) — Dave Farley  
-- [*Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*](https://www.pearson.com/en-us/subject-catalog/p/continuous-delivery-reliable-software-releases-through-build-test-and-deployment-automation/P200000003203) — Jez Humble & Dave Farley  
-- [*Accelerate: Building and Scaling High Performing Technology Organizations*](https://itrevolution.com/accelerate-book/) — Nicole Forsgren, Jez Humble & Gene Kim  
+- [*Modern Software Engineering: Doing What Works to Build Better Software Faster*](https://www.oreilly.com/library/view/modern-software-engineering/9780137314942/) — Dave Farley  
+- [*Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*](https://www.amazon.com/dp/0321601912?tag=contindelive-20) — Jez Humble & Dave Farley  
+- [*Accelerate: Building and Scaling High Performing Technology Organizations*](https://www.oreilly.com/library/view/accelerate/9781457191435/) — Nicole Forsgren, Jez Humble & Gene Kim  
 - [*Refactoring: Improving the Design of Existing Code*](https://martinfowler.com/books/refactoring.html) — Martin Fowler  
-- [*The Object-Oriented Thought Process*](https://www.pearson.com/en-us/subject-catalog/p/the-object-oriented-thought-process/P200000003000) — Matt Weisfeld  
-- [*Domain-Driven Design Distilled*](https://www.pearson.com/en-us/subject-catalog/p/domain-driven-design-distilled/P200000003090) — Vaughn Vernon  
+- [*The Object-Oriented Thought Process*](https://www.oreilly.com/library/view/the-object-oriented-thought/9780135182130/) — Matt Weisfeld  
+- [*Domain-Driven Design Distilled*](https://www.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/) — Vaughn Vernon  
