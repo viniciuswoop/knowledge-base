@@ -37,3 +37,20 @@ The degree to which a software system or its components can be effectively and e
 - Inversion of Control **(IoC)** & Dependency Injection **(DI)** - making dependencies explicit and replaceable, which facilitates mocking and stubbing.  
 - Single Responsibility Principle **(SRP)** - ensuring each class or function has one well-defined purpose, reducing hidden behaviors that complicate tests.  
 
+## Code Readability
+
+**What it is:**
+The ease which someone - not just the original author - can read, understand, and reason about the code. Readability comes primarily **from good design decisions, not just formatting rules**.
+
+Why it matters:
+	- Engineer's spend far more time **reading code than writing it**.
+	- Readable code lowers the learning curve, making onboarding and collaboration smoother.
+	- Clarity reduces mistakes, since intent is easier to follow and misunderstandings are minimized.
+	- Focusing on **design and structure first** ensures readability that lasts, whereas style alone only polishes the surface.
+
+Key drivers:
+	- **Clear naming** - variables, functions and classes that reveal intent.
+	- **Small, focused functions and classes** - each doing one thing well, which makes behavior easy to follow.
+	- **Good modular design** - well defined boundaries and responsibilities, making navigation intuitive.
+	- **Minimal "surprise" behavior** - code should behave as its name and structure suggest.
+  - **Consistent formatting and style** - helps, but always in service of the underlying design.
