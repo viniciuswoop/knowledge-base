@@ -1,3 +1,5 @@
+# Software Quality Aspects
+
 The following software quality aspects directly impact the economic performance of companies, because software increasingly represents core business processes. Understanding these aspects and translating them into practical implementation drives engineering productivity, which in turn affects costs and enables faster adaptation to new requirements, fostering innovation.
 
 ## Maintainability & Extensibility
