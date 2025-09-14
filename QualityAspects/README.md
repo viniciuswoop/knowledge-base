@@ -23,7 +23,7 @@ The degree to which a system can be efficiently modified to fix defects and add 
 
 ## Testability
 
-**What is:**  
+**What it is:**  
 The degree to which a software system or its components can be effectively and efficiently tested. In practice, it means how easily small units of the application can be tested in isolation, without requiring complex setup or dependencies.
 
 **Why it matters:**  
