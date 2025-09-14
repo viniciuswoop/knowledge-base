@@ -21,8 +21,6 @@ The degree to which a system can be efficiently modified to fix defects and add 
 - Adhere to SOLID principles - Principles that will guide implementation, aiming for maintainability and extensibility.  
 - Comprehensive automated tests - ensuring safe refactoring and evolution.  
 
----
-
 ## Testability
 
 **What is:**  
