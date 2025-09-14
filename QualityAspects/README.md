@@ -54,3 +54,22 @@ The ease which someone - not just the original author - can read, understand, an
 - **Good modular design** - well defined boundaries and responsibilities, making navigation intuitive.
 - **Minimal "surprise" behavior** - code should behave as its name and structure suggest
 - **Consistent formatting and style** - helps, but always in service of the underlying design.
+
+## Complexity
+
+**What it is**:  
+The measure of how difficult code is to understand, reason about, and change. Complexity comes in two main flavors:
+- **Accidental complexity**: Complexity introduced by poor design, unnecessary abstractions, duplication, or unclear naming.
+- **Essential complexity**: Complexity inherent in the problem domain that cannot be avoided. (tax rules, distributed systems)
+
+**Why it matters**:
+- Directly affects **readability** (harder to parse and follow)
+- Increases the cost of maintenance (small changes risk unintended consequences)
+- Reduces **reusability** (complex code is harder to lift into other contexts)
+- Makes achieving **consistency** and **modularity** harder, since complex components tend to sprawl accross responsibilities.
+
+**Key drivers**
+- Too many nested conditionals or loops.
+- Overuse of inheritance or deep hierarchies.
+- Large classes or functions with multiple responsibilities.
+- Hidden dependencies between modules.
