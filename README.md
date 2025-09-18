@@ -8,7 +8,7 @@ The topics I chose to write about (for now) are all based on books I have read â
 - [Software Quality Aspects](./QualityAspects/)
 - System Design  
 - OOP  
-- Engineering Thinking and Pragmatism  
+- [Engineering Thinking and Pragmatism](./SoftwareEngineering)   
 - DevOps Culture and Practices  
 
 If you find any topic that interests you and youâ€™d like to collaborate, feel free to create pull requests or raise discussions.  
