@@ -15,7 +15,7 @@ A key insight is that software engineering has a direct correlation with **scien
 
 In this sense, software engineering is an application of **empirical, evidence-based learning** to the challenges of building software. Fast feedback loops, incremental delivery, and continuous improvement are engineering mechanisms that map directly to the scientific method.
 
-## Engineering Focus
+## Foundations of Software Engineering Discipline
 
 Effective software engineers must become experts at:
 
