@@ -15,14 +15,18 @@ A key insight is that software engineering has a direct correlation with **scien
 
 In this sense, software engineering is an application of **empirical, evidence-based learning** to the challenges of building software. Fast feedback loops, incremental delivery, and continuous improvement are engineering mechanisms that map directly to the scientific method.
 
-## Foundations of Software Engineering Discipline
+## Foundations of Software Engineering
 
-Effective software engineers must become experts at:
+Engineering is not about mastering tools or simply writing code. Tools are enablers, and code is the medium, but the true foundation of engineering lies in disciplined thinking, evidence-based decision making, and the ability to adapt systems over time.  
+
+Effective software engineering requires engineers to become experts at:
 
 - **Learning**: continuously generating and validating knowledge through fast feedback loops and empirical practices.  
 - **Managing Complexity**: keeping systems understandable, adaptable, and resilient as they evolve.  
+- **Measurement**: using evidence and metrics to guide decisions, and connect engineering practices with business outcomes.  
 
-The following pages explore these themes in detail:
+The following pages explore these foundations in detail:
 
 - [Optimizing for Learning](./OptimizeLearning/README.md)  
-- [Managing Complexity](./ManagingComplexity/README.md)  
+- [Managing Complexity](./ManagingComplexity/README.md)
+- [Measurement](./Measurement/README.md)  
