@@ -1,0 +1,24 @@
+# Optimizing for Learning
+
+Software engineering is fundamentally a learning activity. We rarely begin with complete knowledge about the problem or the solution. Instead, engineers generate hypotheses, test them through working software, and adapt based on feedback.  
+
+The goal is to create fast, high-quality feedback loops that accelerate this learning process. Each cycle of design, implementation, and feedback increases understanding of both the system being built and the domain it serves.  
+
+**Why it matters:**  
+- Learning reduces risk by uncovering unknowns early.  
+- Fast learning cycles lower the cost of mistakes.  
+- Engineering productivity increases as teams adapt more quickly to new requirements.  
+
+## Techniques to Optimize Learning
+
+The following core techniques support and accelerate the learning process. Each will be presented in more detail on its own page:  
+
+- [Working Iteratively](./WorkingIteratively.md)  
+- [Feedback](./Feedback.md)  
+- [Incrementalism](./Incrementalism.md)  
+- [Empiricism](./Empiricism.md)  
+- [Being Experimental](./Experimentalism.md)  
+
+---
+
+By adopting these techniques, engineers establish a disciplined approach to solving problems and continuously improving software systems.
