@@ -2,7 +2,10 @@
 
 Software engineering is fundamentally a learning activity. We rarely begin with complete knowledge about the problem or the solution. Instead, engineers generate hypotheses, test them through working software, and adapt based on feedback.  
 
-The goal is to create fast, high-quality feedback loops that accelerate this learning process. Each cycle of design, implementation, and feedback increases understanding of both the system being built and the domain it serves.  
+The goal is to create fast, high-quality feedback loops that accelerate this learning process. Each cycle of creating an assumption, implementation, and collecting feedback increases understanding of both the system being built and the domain it serves.  
+
+<img width="575" height="437" alt="image" src="https://github.com/user-attachments/assets/a2222ebb-7b75-42b6-b13e-012c65d1034e" />
+
 
 **Why it matters:**  
 - Learning reduces risk by uncovering unknowns early.  
