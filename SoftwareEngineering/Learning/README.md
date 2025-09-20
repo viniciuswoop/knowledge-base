@@ -13,7 +13,7 @@ The goal is to create fast, high-quality feedback loops that accelerate this lea
 
 ## Techniques to Optimize Learning
 
-The following core techniques support and accelerate the learning process. Each will be presented in more detail on its own page:  
+The following core techniques support and accelerate the learning process.
 
 - [Working Iteratively](./WorkingIteratively.md)  
 - [Feedback](./Feedback.md)  
