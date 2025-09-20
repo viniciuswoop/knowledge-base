@@ -15,11 +15,11 @@ The goal is to create fast, high-quality feedback loops that accelerate this lea
 
 The following core techniques support and accelerate the learning process.
 
-- [Working Iteratively](./WorkingIteratively.md)  
-- [Feedback](./Feedback.md)  
-- [Incrementalism](./Incrementalism.md)  
-- [Empiricism](./Empiricism.md)  
-- [Being Experimental](./Experimentalism.md)  
+- [Working Iteratively](./WorkingIteratively/README.md)  
+- [Feedback](./Feedback/README.md)  
+- [Incrementalism](./Incrementalism/README.md)  
+- [Empiricism](./Empiricism/README.md)  
+- [Being Experimental](./Experimentalism/README.md)  
 
 
 By adopting these techniques, engineers establish a disciplined approach to solving problems and continuously learning about the system and the business domain.
