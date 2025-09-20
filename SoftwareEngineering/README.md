@@ -27,6 +27,6 @@ Effective software engineering requires engineers to become experts at:
 
 The following pages explore these foundations in detail:
 
-- [Optimizing for Learning](./OptimizeLearning/README.md)  
+- [Optimizing for Learning](./Learning/README.md)  
 - [Managing Complexity](./ManagingComplexity/README.md)
 - [Measurement](./Measurement/README.md)  
