@@ -22,5 +22,4 @@ The following core techniques support and accelerate the learning process.
 - [Being Experimental](./Experimentalism.md)  
 
 
-
-By adopting these techniques, engineers establish a disciplined approach to solving problems and continuously improving software systems.
+By adopting these techniques, engineers establish a disciplined approach to solving problems and continuously learning about the system and the business domain.
