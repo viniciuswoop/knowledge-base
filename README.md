@@ -9,7 +9,7 @@ The topics I chose to write about (for now) are all based on books I have read â
 - [Engineering Thinking and Pragmatism](./SoftwareEngineering)   
 - System Design  
 - OOP  
-- DevOps Culture and Practices  
+- [DevOps Culture and Practices](./DevOps/)  
 
 If you find any topic that interests you and youâ€™d like to collaborate, feel free to create pull requests or raise discussions.  
 
