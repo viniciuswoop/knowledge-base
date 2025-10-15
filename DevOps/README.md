@@ -65,7 +65,6 @@ Continue reading to explore how these capabilities come together to enable true 
 - [Measurement](./Measurement/)
 - [Technical Practices](#)  
 - [Architecture](#)  
-  
 - [Lean Management and Monitoring](#)  
 - [Leadership and Management](#)
 
