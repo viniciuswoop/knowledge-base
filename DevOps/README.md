@@ -63,7 +63,7 @@ Continue reading to explore how these capabilities come together to enable true 
 
 - [Organizational Culture](./OrganizationalCulture/)
 - [Measurement](./Measurement/)
-- [Continuous Delivery](#)  
+- [Continuous Delivery](./ContinuousDelivery/)  
 - [Architecture](#)  
 - [Lean Management and Monitoring](#)  
 - [Leadership and Management](#)
