@@ -61,10 +61,11 @@ Therefore, each should evolve along a path that maximizes its impact — continu
 
 Continue reading to explore how these capabilities come together to enable true organizational acceleration:
 
-- [Organizational Culture](#)  
+- [Organizational Culture](./OrganizationalCulture/)
+- [Measurement](./Measurement/)
 - [Technical Practices](#)  
 - [Architecture](#)  
-- [Measurement](#)  
+  
 - [Lean Management and Monitoring](#)  
 - [Leadership and Management](#)
 
