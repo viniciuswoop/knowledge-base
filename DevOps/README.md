@@ -66,5 +66,5 @@ Continue reading to explore how these capabilities come together to enable true 
 - [Continuous Delivery](./ContinuousDelivery/)  
 - [Architecture](./Architecture/)  
 - [Lean Management and Product Development](./LeanProductDevelopment)  
-- [Leadership and Management](#)
+- [Leadership and Management](./LeadershipManagement)
 
