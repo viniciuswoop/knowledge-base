@@ -20,7 +20,7 @@ High-performing teams that practice Continuous Delivery consistently achieve:
 
 In short, CD enables **fast flow and stable operations** — allowing organizations to innovate safely and compete effectively.
 
-## What Continuous Delivery Is
+## What It Is
 
 Continuous Delivery is a **set of capabilities** that allow teams to get changes of all kinds — features, configuration updates, bug fixes, and experiments — into production or to users **safely, quickly, and sustainably**.
 
