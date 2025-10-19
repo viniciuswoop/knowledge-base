@@ -7,7 +7,7 @@ The topics I chose to write about (for now) are all based on books I have read â
 
 - [Software Quality Aspects](./QualityAspects/)
 - [Engineering Thinking and Pragmatism](./SoftwareEngineering)   
-- [Refactoring] (./Refactoring)  
+- [Refactoring](./Refactoring)  
 - OOP  
 - [DevOps Culture and Practices](./DevOps/)  
 
