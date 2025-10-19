@@ -7,11 +7,11 @@ The topics I chose to write about (for now) are all based on books I have read �
 
 - [Software Quality Aspects](./QualityAspects/)
 - [Engineering Thinking and Pragmatism](./SoftwareEngineering)   
-- System Design  
+- [Refactoring] (./Refactoring)  
 - OOP  
 - [DevOps Culture and Practices](./DevOps/)  
 
-If you find any topic that interests you and you’d like to collaborate, feel free to create pull requests or raise discussions.  
+If you find any topic that interests you and you’d like to collaborate on, feel free to create pull requests or raise discussions.  
 
 Thank you for the visit! 
 
