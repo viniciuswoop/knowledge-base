@@ -26,7 +26,7 @@ Mastering them ensures that future refactoring becomes faster, safer, and less r
 ## First Set of Refactorings
 
 - [**Extract Function / Method**](./ExtractMethod/README.md)  
-- [**Inline Function**](./inline-function.md)  
+- [**Inline Function**](./InlineMethod/README.md)  
 - [**Extract Variable**](./extract-variable.md)  
 - [**Inline Variable**](./inline-variable.md)
 - [**Change Function Declaration**](./change-function-declaration.md)
