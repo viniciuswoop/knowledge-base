@@ -7,20 +7,14 @@ This allows controlled access to the variable, protecting it from unwanted modif
 
 ## Motivation
 
-- **Code Readability**  
-  Meaningful names make code easier to understand at a glance.
-
-- **Code Complexity**  
-  Clear names reduce cognitive load and prevent misinterpretation of a variable’s role.
-
 - **Maintainability and Extensibility**  
-  Well-named variables make it easier to update and extend code without introducing errors.
+  Centralizing the data manipulation logic helps to enforce business rules when modifying it and prevent undesirable data manipulation from clients.
 
-- **Code Duplication**  
-  Using consistent and descriptive names helps prevent creating duplicate variables or concepts unnecessarily.
+- **Code Readability**  
+  Client interaction is clear and communicates intention.
 
 - **Testability**  
-  Clear variable names make tests more understandable and reduce the chance of misinterpreting test behavior.
+  Object becomes more testable as object enforces business rules by its own.
 
 
 ## When to Apply
