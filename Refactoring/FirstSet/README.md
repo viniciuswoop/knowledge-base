@@ -32,7 +32,7 @@ Mastering them ensures that future refactoring becomes faster, safer, and less r
 - [**Change Function Declaration**](./ChangeFunctionDeclaration/README.md)
 - [**Encapsulate Variable**](./EncapsulateVariable/README.md)
 - [**Rename Variable**](./RenameVariable/README.md)
-- [**Introduce Parameter Object**](./IntroductParameterObject/README.md) 
+- [**Introduce Parameter Object**](./IntroduceParameterObject/README.md) 
 - [**Combine Functions into Class**](./CombineFunctionIntoClass/README.md)  
 - [**Combine Functions into Transforms**](./CombineFunctionsIntoTransforms/README.md) 
 - [**Split Phase**](./SplitPhase/README.md)
