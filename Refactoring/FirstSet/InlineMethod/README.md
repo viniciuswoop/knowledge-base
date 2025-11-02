@@ -7,10 +7,19 @@ This is done when the function adds no meaningful abstraction or indirection.
 
 ## Motivation
 
-- **Code Readability**: Eliminates unnecessary layers of indirection, making the code easier to follow.
-- **Code Complexity**: Simplifies the structure by removing trivial functions that do not convey additional intent.
-- **Maintainability and Extensibility**: Reduces the overhead of maintaining a function that provides no benefit, making the codebase simpler to modify.
-- **Testability**: In some cases, inlining can make testing more straightforward by consolidating logic in one place.
+- **Code Readability**  
+  Eliminates unnecessary layers of indirection, making the code easier to follow.
+
+- **Code Complexity**  
+  Simplifies the structure by removing trivial functions that do not convey additional intent.
+
+- **Maintainability and Extensibility**  
+  Reduces the overhead of maintaining a function that provides no benefit, making the codebase simpler to modify.
+
+- **Testability**  
+  In some cases, inlining can make testing more straightforward by consolidating logic in one place.
+
+  
 
 ## When to Apply
 - The function is **short and trivial**, providing little or no semantic value.
