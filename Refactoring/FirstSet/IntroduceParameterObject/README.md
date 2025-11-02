@@ -21,7 +21,7 @@ This simplifies method signatures, improves readability, and centralizes related
 
 ## When to Apply
 
-- A method has **many parameters** (especially 3 or more).  
+- A method has **many parameters** (especially 5 or more).  
 - The same group of parameters is **passed together to multiple methods**.  
 - You want to **simplify method signatures** and centralize related data.  
 
