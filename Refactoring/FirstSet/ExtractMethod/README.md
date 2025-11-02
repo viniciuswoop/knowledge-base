@@ -7,20 +7,21 @@ The original method then calls this new method, preserving the original behavior
 
 ## Motivation
 
-- **Code Readability**
+- **Code Readability**  
   Breaking long methods into smaller, well-named methods makes the code easier to understand at a glance.
-  
-- **Code Complexity**
+
+- **Code Complexity**  
   Isolating distinct logic reduces cognitive load and simplifies reasoning about the method.
-  
-- **Maintainability and Extensibility**
+
+- **Maintainability and Extensibility**  
   Extracted methods can be modified, extended, or reused without affecting the rest of the code.
-  
-- **Testability**
+
+- **Testability**  
   Smaller methods can be tested independently, improving reliability and confidence in code changes.
-  
-- **Code Duplication**
+
+- **Code Duplication**  
   Repeated code blocks can be extracted into a single method, reducing duplication and future maintenance overhead.
+
 
 ## When to Apply
 
