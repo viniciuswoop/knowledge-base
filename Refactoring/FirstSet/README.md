@@ -27,8 +27,8 @@ Mastering them ensures that future refactoring becomes faster, safer, and less r
 
 - [**Extract Function / Method**](./ExtractMethod/README.md)  
 - [**Inline Function**](./InlineMethod/README.md)  
-- [**Extract Variable**](./extract-variable.md)  
-- [**Inline Variable**](./inline-variable.md)
+- [**Extract Variable**](./ExtractVariable/README.md)  
+- [**Inline Variable**](./InlineVariable/README.md)
 - [**Change Function Declaration**](./change-function-declaration.md)
 - [**Encapsulate Variable**](./encapsulate-variable.md)
 - [**Rename Variable**](./rename-variable.md)
